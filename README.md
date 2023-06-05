@@ -18,7 +18,7 @@ This is a simple chatbot implemented using TensorFlow and natural language proce
 The chatbot is built using a neural network model that learns from a collection of intents defined in a JSON file. It uses natural language processing techniques, including tokenization, lemmatization, and bag-of-words representation, to understand user input and generate appropriate responses.
 
 The chatbot consists of two main components:
-1. Training the Model: The `train_chatbot.py` script is used to preprocess the intents data, train the model, and save the trained model as `chatbot_model.h5`.
+1. Training the Model: The `train_chatbot.py` script is used to preprocess the intents data, train the model using ANN, and save the trained model as `chatbot_model.h5`.
 2. Running the Chatbot: The `chatbot.py` script is used to load the trained model and interact with the user. It takes user queries as input and generates responses based on the trained model.
 
 ## Installation
