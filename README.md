@@ -76,9 +76,3 @@ The following dependencies are required to run the chatbot:
 ## Contributing
 
 Contributions are welcome! If you find any issues or have suggestions for improvement, please open an issue or submit a pull request.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
-Feel free to customize the content according to your specific project requirements.
